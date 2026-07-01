@@ -50,7 +50,3 @@ cd IceQueuebes
 g++ main.cpp -o icequeuebes
 ./icequeuebes
 ```
-
-## License
-
-This project was built for academic purposes as part of a Data Structures & Algorithms course.
